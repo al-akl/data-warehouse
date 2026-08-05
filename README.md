@@ -5,4 +5,5 @@ This project extends the e-commerce website by building a Business Intelligence 
 ---
 # Data Architecture
 The data architecture for this project follows Medallion architecture:
+
 ![data-architecture-image](https://github.com/al-akl/data-warehouse/blob/6703d6c1add5c4c6dfd9867a800725d0026328a4/NovaInsights/docs/data_architecture.png)
