@@ -1,0 +1,55 @@
+userID,firstName,lastName,email,role,balance,registrationDate
+1,  John, Smith,john.smith@admin.com,ADMINISTRATOR,1000.00,2026-01-15
+2,Sarah,  Johnson,sarah.johnson@admin.com,ADMINISTRATOR,1820.00,2026-01-20
+2,Sarah,Johnson,sarah.johnson@admin.com,ADMINISTRATOR,1820.00,2026-01-20
+3,Michael,Williams,michael.williams@admin.com,ADMINISTRATOR,900.00,2026-02-01
+4,Emily,Brown,emily.brown@admin.com,ADMINISTRATOR,400.00,2026-02-10
+5,David,Miller,david.miller@admin.com,ADMINISTRATOR,300.00,2026-02-15
+6,Emma,Wilson,emma.wilson@email.com,CUSTOMER,150.50,2026-01-10
+7,  Liam,Moore,liam.moore@email.com,CUSTOMER,275.00,2026-01-12
+8,Olivia,  Taylor,olivia.taylor@email.com,CUSTOMER,89.75,2026-01-14
+9,Noah,Anderson,noah.anderson@email.com,CUSTOMER,420.30,2026-01-16
+10,Ava,Thomas,ava.thomas@email.com,CUSTOMER,0.00,2026-01-18
+10,Ava,Thomas,ava.thomas@email.com,CUSTOMER,0.00,2026-01-18
+11,James,Jackson,james.jackson@email.com,CUSTOMER,199.99,2026-01-20
+12,Isabella,White,isabella.white@email.com,CUSTOMER,55.25,2026-01-22
+13,Logan,Harris,logan.harris@email.com,CUSTOMER,310.80,2026-01-24
+14,Mia,Martin,mia.martin@email.com,CUSTOMER,125.40,2026-01-26
+15,Mason,Thompson,mason.thompson@email.com,CUSTOMER,670.15,2026-01-28
+15,Mason,Thompson,mason.thompson@email.com,CUSTOMER,670.15,2026-01-28
+15,Mason,Thompson,mason.thompson@email.com,CUSTOMER,670.15,2026-01-28
+16,Charlotte,Garcia,charlotte.garcia@email.com,CUSTOMER,0.00,2026-01-30
+17,Ethan,Martinez,ethan.martinez@email.com,CUSTOMER,540.00,2026-02-01
+18,Amelia,Robinson,amelia.robinson@email.com,CUSTOMER,230.60,2026-02-03
+19,Alexander,Clark,alexander.clark@email.com,CUSTOMER,99.99,2026-02-05
+20,Sophia,Rodriguez,sophia.rodriguez@email.com,CUSTOMER,800.50,2026-02-07
+21,Benjamin,Lewis,benjamin.lewis@email.com,CUSTOMER,45.20,2026-02-09
+22,Abigail,Lee,abigail.lee@email.com,CUSTOMER,620.75,2026-02-11
+23,Elijah,Walker,elijah.walker@email.com,CUSTOMER,130.00,2026-02-13
+24,Emily,Hall,emily.hall@email.com,CUSTOMER,0.00,2026-02-15
+25,Daniel,Allen,daniel.allen@email.com,CUSTOMER,490.30,2026-02-17
+26,Madison,Young,madison.young@email.com,CUSTOMER,215.55,2026-02-19
+27,Aiden,Hernandez,aiden.hernandez@email.com,CUSTOMER,360.80,2026-02-21
+28,Chloe,King,chloe.king@email.com,CUSTOMER,75.25,2026-02-23
+29,Matthew,Wright,matthew.wright@email.com,CUSTOMER,920.00,2026-02-25
+30,Harper,Lopez,harper.lopez@email.com,CUSTOMER,185.90,2026-02-27
+31,Joseph,Hill,joseph.hill@email.com,CUSTOMER,0.00,2026-03-01
+32,Evelyn,Scott,evelyn.scott@email.com,CUSTOMER,430.15,2026-03-03
+33,Samuel,Green,samuel.green@email.com,CUSTOMER,555.50,2026-03-05
+34,Abigail,Adams,abigail.adams@email.com,CUSTOMER,98.75,2026-03-07
+35,Dylan,Baker,dylan.baker@email.com,CUSTOMER,310.20,2026-03-09
+36,Victoria,Nelson,victoria.nelson@email.com,CUSTOMER,0.00,2026-03-11
+37,Nathaniel,Carter,nathaniel.carter@email.com,CUSTOMER,670.40,2026-03-13
+38,Zoe,Mitchell,zoe.mitchell@email.com,CUSTOMER,245.60,2026-03-15
+39,Caleb,Perez,caleb.perez@email.com,CUSTOMER,890.00,2026-03-17
+40,Natalie,Roberts,natalie.roberts@email.com,CUSTOMER,55.90,2026-03-19
+41,Jack,Turner,jack.turner@email.com,CUSTOMER,0.00,2026-03-21
+42,Grace,Phillips,grace.phillips@email.com,CUSTOMER,720.30,2026-03-23
+43,Ryan,Campbell,ryan.campbell@email.com,CUSTOMER,180.85,2026-03-25
+44,Lily,Evans,lily.evans@email.com,CUSTOMER,430.00,2026-03-27
+45,Oliver,Edwards,oliver.edwards@email.com,CUSTOMER,0.00,2026-03-29
+46,Sofia,Collins,sofia.collins@email.com,CUSTOMER,315.50,2026-03-31
+47,Jackson,Stewart,jackson.stewart@email.com,CUSTOMER,510.25,2026-04-02
+48,Aria,Morris,aria.morris@email.com,CUSTOMER,95.40,2026-04-04
+49,Sebastian,Rogers,sebastian.rogers@email.com,CUSTOMER,640.80,2026-04-06
+50,Avery,Reed,avery.reed@email.com,CUSTOMER,220.00,2026-04-08
