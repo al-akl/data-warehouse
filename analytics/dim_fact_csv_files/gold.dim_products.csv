@@ -1,0 +1,102 @@
+﻿ELEC001,1,Electronics,Wireless Mouse,Ergonomic wireless mouse with USB receiver,19.99,120,2026-01-05 10:15:00.000
+ELEC002,1,Electronics,Mechanical Keyboard,RGB mechanical gaming keyboard,59.99,75,2026-01-14 14:32:00.000
+ELEC003,1,Electronics,Bluetooth Speaker,Portable Bluetooth speaker with deep bass,39.99,60,2026-01-28 09:47:00.000
+ELEC004,1,Electronics,USB-C Charger,Fast charging USB-C wall adapter,24.99,90,2026-02-03 16:21:00.000
+ELEC005,1,Electronics,Webcam HD,1080p HD webcam for video calls,44.99,35,2026-02-12 11:05:00.000
+ELEC006,1,Electronics,Gaming Headset,Noise-canceling gaming headset,69.99,50,2026-02-25 18:40:00.000
+ELEC007,1,Electronics,External SSD 500GB,High-speed portable SSD storage,79.99,40,2026-03-06 08:55:00.000
+ELEC008,1,Electronics,Wireless Earbuds,Bluetooth earbuds with charging case,49.99,85,2026-03-17 13:12:00.000
+ELEC009,1,Electronics,Smart Watch,Fitness tracking smartwatch,129.99,25,2026-03-29 15:44:00.000
+ELEC010,1,Electronics,Laptop Stand,Adjustable aluminum laptop stand,29.99,70,2026-04-08 10:08:00.000
+ELEC011,1,Electronics,Power Bank 10000mAh,Portable battery pack,34.99,100,2026-04-19 17:25:00.000
+ELEC012,1,Electronics,Monitor 24 Inch,Full HD LED monitor,149.99,30,2026-04-30 12:50:00.000
+ELEC013,1,Electronics,Phone Tripod,Adjustable smartphone tripod,22.99,55,2026-05-09 09:18:00.000
+ELEC014,1,Electronics,Wireless Charger,Qi-certified charging pad,27.99,65,2026-05-18 14:39:00.000
+ELEC015,1,Electronics,Action Camera,Waterproof action camera,99.99,20,2026-05-27 19:07:00.000
+ELEC016,1,Electronics,USB Hub,4-port USB 3.0 hub,18.99,80,2026-06-06 11:33:00.000
+ELEC017,1,Electronics,Smart Home Plug,WiFi-enabled smart plug,16.99,94,2026-06-18 16:52:00.000
+CLOT001,2,Clothing,Basic T-Shirt,100% cotton crew neck t-shirt,14.99,200,2026-01-03 09:10:00.000
+CLOT002,2,Clothing,Slim Fit Jeans,Comfortable blue denim jeans,39.99,120,2026-01-11 14:25:00.000
+CLOT003,2,Clothing,Hoodie,Fleece-lined pullover hoodie,34.99,90,2026-01-19 18:40:00.000
+CLOT004,2,Clothing,Polo Shirt,Classic short-sleeve polo shirt,24.99,80,2026-01-27 10:05:00.000
+CLOT005,2,Clothing,Running Shorts,Lightweight athletic shorts,19.99,140,2026-02-04 12:33:00.000
+CLOT006,2,Clothing,Winter Jacket,Insulated winter jacket,89.99,35,2026-02-12 16:50:00.000
+CLOT007,2,Clothing,Dress Shirt,Formal button-down shirt,29.99,75,2026-02-20 09:18:00.000
+CLOT008,2,Clothing,Sweatpants,Comfortable fleece sweatpants,27.99,95,2026-02-28 13:44:00.000
+CLOT009,2,Clothing,Baseball Cap,Adjustable cotton cap,12.99,150,2026-03-07 11:22:00.000
+CLOT010,2,Clothing,Sneakers,Casual everyday sneakers,59.99,70,2026-03-15 17:36:00.000
+CLOT011,2,Clothing,Socks Pack,Pack of five cotton socks,9.99,200,2026-03-23 08:55:00.000
+CLOT012,2,Clothing,Leather Belt,Classic leather belt,18.99,90,2026-04-01 14:10:00.000
+CLOT013,2,Clothing,Tank Top,Sleeveless cotton tank top,11.99,110,2026-04-09 09:47:00.000
+CLOT014,2,Clothing,Cardigan,Soft knit cardigan sweater,44.99,45,2026-04-18 15:30:00.000
+CLOT015,2,Clothing,Raincoat,Water-resistant raincoat,49.99,30,2026-05-02 10:20:00.000
+CLOT016,2,Clothing,Scarf,Warm winter scarf,15.99,99,2026-05-15 18:05:00.000
+CLOT017,2,Clothing,Gloves,Insulated winter gloves,17.99,85,2026-06-10 12:40:00.000
+HOME001,3,Home & Kitchen,Coffee Maker,Programmable drip coffee maker,79.99,25,2026-01-04 08:15:00.000
+HOME002,3,Home & Kitchen,Electric Kettle,1.7L stainless steel kettle,34.99,50,2026-01-13 12:30:00.000
+HOME003,3,Home & Kitchen,Blender,High-speed kitchen blender,59.99,40,2026-01-22 17:45:00.000
+HOME004,3,Home & Kitchen,Cookware Set,10-piece non-stick cookware set,129.99,20,2026-02-02 10:20:00.000
+HOME005,3,Home & Kitchen,Knife Set,Stainless steel kitchen knives,49.99,35,2026-02-11 14:55:00.000
+HOME006,3,Home & Kitchen,Toaster,2-slice electric toaster,29.99,60,2026-02-19 09:10:00.000
+HOME007,3,Home & Kitchen,Vacuum Cleaner,Bagless upright vacuum cleaner,149.99,15,2026-02-28 16:40:00.000
+HOME008,3,Home & Kitchen,Air Fryer,Digital air fryer with timer,99.99,30,2026-03-08 11:25:00.000
+HOME009,3,Home & Kitchen,Desk Lamp,LED adjustable desk lamp,24.99,80,2026-03-16 18:05:00.000
+HOME010,3,Home & Kitchen,Storage Box,Large plastic storage container,14.99,100,2026-03-25 09:50:00.000
+HOME011,3,Home & Kitchen,Dining Plates Set,Ceramic plate set of six,39.99,45,2026-04-03 13:15:00.000
+HOME012,3,Home & Kitchen,Bed Sheet Set,Queen-size microfiber sheets,34.99,55,2026-04-12 10:35:00.000
+HOME013,3,Home & Kitchen,Laundry Basket,Foldable laundry basket,12.99,90,2026-04-20 17:00:00.000
+HOME014,3,Home & Kitchen,Wall Clock,Modern decorative wall clock,19.99,70,2026-05-01 09:25:00.000
+HOME015,3,Home & Kitchen,Water Filter Pitcher,Household water filter pitcher,29.99,40,2026-05-14 15:40:00.000
+HOME016,3,Home & Kitchen,Rice Cooker,Automatic rice cooker,54.99,34,2026-05-28 12:10:00.000
+HOME017,3,Home & Kitchen,Food Storage Containers,Set of airtight containers,26.99,74,2026-06-12 18:35:00.000
+SPRT001,4,Sports & Fitness,Yoga Mat,Non-slip exercise yoga mat,24.99,80,2026-01-06 09:10:00.000
+SPRT002,4,Sports & Fitness,Dumbbell Set,Adjustable dumbbell pair,89.99,25,2026-01-15 14:35:00.000
+SPRT003,4,Sports & Fitness,Resistance Bands,Set of resistance bands,19.99,120,2026-01-24 18:20:00.000
+SPRT004,4,Sports & Fitness,Basketball,Official size basketball,29.99,50,2026-02-03 11:05:00.000
+SPRT005,4,Sports & Fitness,Football,Durable training football,24.99,60,2026-02-11 16:40:00.000
+SPRT006,4,Sports & Fitness,Tennis Racket,Lightweight tennis racket,79.99,20,2026-02-20 09:25:00.000
+SPRT007,4,Sports & Fitness,Jump Rope,Adjustable speed jump rope,12.99,150,2026-02-28 13:55:00.000
+SPRT008,4,Sports & Fitness,Protein Shaker,Leak-proof shaker bottle,9.99,200,2026-03-07 10:10:00.000
+SPRT009,4,Sports & Fitness,Exercise Ball,Anti-burst fitness ball,22.99,45,2026-03-16 17:30:00.000
+SPRT010,4,Sports & Fitness,Cycling Helmet,Protective bike helmet,49.99,35,2026-03-25 12:45:00.000
+SPRT011,4,Sports & Fitness,Running Shoes,Lightweight running shoes,74.99,40,2026-04-02 09:15:00.000
+SPRT012,4,Sports & Fitness,Fitness Tracker,Activity tracking wristband,59.99,30,2026-04-10 15:50:00.000
+SPRT013,4,Sports & Fitness,Pull-Up Bar,Doorway pull-up bar,34.99,50,2026-04-18 11:20:00.000
+SPRT014,4,Sports & Fitness,Boxing Gloves,Training boxing gloves,39.99,45,2026-05-01 18:05:00.000
+SPRT015,4,Sports & Fitness,Camping Tent,2-person outdoor tent,119.99,15,2026-05-14 08:40:00.000
+SPRT016,4,Sports & Fitness,Sleeping Bag,Compact camping sleeping bag,49.99,24,2026-05-28 14:25:00.000
+SPRT017,4,Sports & Fitness,Water Bottle,Insulated stainless bottle,17.99,100,2026-06-15 10:55:00.000
+BOOK001,5,Books,Learn PHP,Beginner guide to PHP development,24.99,70,2026-01-05 10:10:00.000
+BOOK002,5,Books,Mastering JavaScript,Advanced JavaScript concepts,29.99,50,2026-01-13 15:25:00.000
+BOOK003,5,Books,Database Design,Practical database design book,34.99,40,2026-01-21 18:40:00.000
+BOOK004,5,Books,Algorithms Explained,Introduction to algorithms,39.99,35,2026-02-02 09:30:00.000
+BOOK005,5,Books,Clean Code,Best practices for developers,32.99,30,2026-02-10 14:55:00.000
+BOOK006,5,Books,Web Development,HTML CSS and JavaScript,22.99,60,2026-02-18 11:20:00.000
+BOOK007,5,Books,Data Structures,Fundamentals of data structures,28.99,45,2026-02-26 16:45:00.000
+BOOK008,5,Books,Python Programming,Comprehensive Python guide,35.99,55,2026-03-06 09:15:00.000
+BOOK009,5,Books,Artificial Intelligence,AI concepts and applications,42.99,25,2026-03-14 13:40:00.000
+BOOK010,5,Books,Cybersecurity Essentials,Introduction to cybersecurity,31.99,40,2026-03-22 18:10:00.000
+BOOK011,5,Books,Networking,Computer networking basics,27.99,50,2026-04-01 10:05:00.000
+BOOK012,5,Books,Software Engineering,Software development lifecycle,36.99,30,2026-04-09 15:30:00.000
+BOOK013,5,Books,Cloud Computing,Cloud technologies explained,33.99,35,2026-04-17 12:25:00.000
+BOOK014,5,Books,Machine Learning,ML concepts for beginners,38.99,25,2026-05-03 17:50:00.000
+BOOK015,5,Books,Operating Systems,Operating system principles,29.99,45,2026-05-18 09:35:00.000
+BOOK016,5,Books,Computer Architecture,Hardware and architecture,34.99,40,2026-06-08 14:20:00.000
+BOOK017,5,Books,Advanced Programming,Deep dive into programming paradigms,44.99,20,2026-06-20 11:10:00.000
+BEAU001,6,Personal Care,Face Wash,Gentle daily facial cleanser,12.99,120,2026-01-04 09:15:00.000
+BEAU002,6,Personal Care,Moisturizing Cream,Hydrating skin moisturizer,18.99,90,2026-01-12 14:40:00.000
+BEAU003,6,Personal Care,Shampoo,Nourishing hair shampoo,9.99,150,2026-01-20 10:25:00.000
+BEAU004,6,Personal Care,Conditioner,Hair repair conditioner,10.99,140,2026-01-28 16:50:00.000
+BEAU005,6,Personal Care,Body Lotion,Refreshing body lotion,14.99,100,2026-02-05 11:10:00.000
+BEAU006,6,Personal Care,Sunscreen SPF50,Broad spectrum sun protection,16.99,80,2026-02-13 15:35:00.000
+BEAU007,6,Personal Care,Lip Balm,Moisturizing lip balm,4.99,200,2026-02-21 09:20:00.000
+BEAU008,6,Personal Care,Perfume,Long-lasting fragrance,49.99,40,2026-03-02 18:45:00.000
+BEAU009,6,Personal Care,Electric Toothbrush,Rechargeable toothbrush,39.99,50,2026-03-10 12:30:00.000
+BEAU010,6,Personal Care,Hair Dryer,Professional hair dryer,34.99,35,2026-03-18 17:05:00.000
+BEAU011,6,Personal Care,Beard Trimmer,Cordless beard trimmer,29.99,45,2026-03-26 10:15:00.000
+BEAU012,6,Personal Care,Face Mask Pack,Set of hydrating face masks,15.99,70,2026-04-04 14:50:00.000
+BEAU013,6,Personal Care,Hand Cream,Moisturizing hand cream,7.99,120,2026-04-12 09:35:00.000
+BEAU014,6,Personal Care,Makeup Brush Set,Professional makeup brushes,24.99,55,2026-04-20 16:20:00.000
+BEAU015,6,Personal Care,Nail Care Kit,Complete nail grooming kit,19.99,60,2026-05-06 11:45:00.000
+BEAU016,6,Personal Care,Body Scrub,Exfoliating body scrub,13.99,85,2026-05-22 18:10:00.000
+BEAU017,6,Personal Care,Hair Serum,Repair and shine hair serum,21.99,75,2026-06-18 10:55:00.000
