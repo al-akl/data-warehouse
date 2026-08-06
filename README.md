@@ -47,6 +47,19 @@ data-warehouse-project/
 |    |     ├── products.csv
 |    |     ├── products.csv
 |    |     ├── users.csv
+|    |
+|    ├── scripts
+|    |     ├── bronze
+|    |     |     ├── bronze_ddl.sql
+|    |     |     ├── load_bronze.sql
+|    |     |
+|    |     ├── gold
+|    |     |     ├── gold_ddl.sql
+|    |     |
+|    |     ├── silver
+|    |     |     ├── load_silver.sql
+|    |     |     ├── silver_ddl.sql
+|    |     |     ├── validation_records.sql
 |                    
 ├── README.md                                    
 ```
