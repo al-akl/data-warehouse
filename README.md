@@ -10,3 +10,9 @@ The data architecture for this project follows Medallion architecture:
 
 ---
 # Project Requirements
+
+---
+# Data Model
+The data model for this project follows the Star schema:
+
+![data-architecture-image](https://github.com/al-akl/data-warehouse/blob/edf824caf0bc15a9a36ff5a175ed1a1d246cee5f/data_warehouse/docs/data_architecture.png)
