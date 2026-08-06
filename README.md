@@ -18,10 +18,10 @@ Design and implement a modern data warehouse in SQL Server that integrates sales
 
 __Specifications__
 
-__Data Sources:__ Load data supplied as CSV files.
-__Data Preparation:__ Identify, clean, and correct data quality issues before performing any analysis.
-__Data Integration:__ Merge the data into a unified, analysis-friendly data model optimized for reporting and business intelligence.
-__Analytical Modeling:__ Build a semantic data model in Excel Power Pivot and use PivotTables to analyze the data and answer key business questions.
+__Data Sources:__ Load data supplied as CSV files.  
+__Data Preparation:__ Identify, clean, and correct data quality issues before performing any analysis. 
+__Data Integration:__ Merge the data into a unified, analysis-friendly data model optimized for reporting and business intelligence.  
+__Analytical Modeling:__ Build a semantic data model in Excel Power Pivot and use PivotTables to analyze the data and answer key business questions.  
 
 ---
 # Data Model
