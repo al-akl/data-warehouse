@@ -16,3 +16,37 @@ The data architecture for this project follows Medallion architecture:
 The data model for this project follows the Star schema:
 
 ![data-architecture-image](https://github.com/al-akl/data-warehouse/blob/ffa6812265b123f8e3d052515bfe7494977c5a2e/analytics/docs/data_model.png)
+
+---
+# Repository Structure  
+```text
+data-warehouse-project/
+│
+├── analytics/
+|    |
+|    ├── dim_fact_csv_files/                     
+|    |     ├── gold.dim_date.csv                 
+|    |     ├── gold.dim_products.csv                
+|    |     ├── gold.dim_users.csv                    
+|    |     ├── gold.fact_sales
+|    |  
+|    ├── docs/
+|    |     ├── customer_analysis.png
+|    |     ├── data_model.png
+|    |     ├── product_performance.png
+|    |     ├── sales_performance.png               
+|    |
+├── data_warehouse/
+|    ├── docs
+|    |     ├── data_architecture.png
+|    |
+|    ├── e_commerce_csv_files
+|    |     ├── categories.csv
+|    |     ├── order_lines.csv
+|    |     ├── orders.csv
+|    |     ├── products.csv
+|    |     ├── products.csv
+|    |     ├── users.csv
+|                    
+├── README.md                                    
+```
