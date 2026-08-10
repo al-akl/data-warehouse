@@ -77,7 +77,7 @@ data-warehouse-project/
 ```
 
 ---
-# AI Tools
+# AI Usage
 The datasets (users.csv, orders.csv and order_lines.csv) were generated using AI with intentional realistic mistakes to simulate a real world scenario.
 
 ---
