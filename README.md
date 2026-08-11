@@ -30,6 +30,11 @@ The data model for this project follows the Star schema:
 ![data-architecture-image](https://github.com/al-akl/data-warehouse/blob/ffa6812265b123f8e3d052515bfe7494977c5a2e/analytics/docs/data_model.png)
 
 ---
+# Tools Used
+- __SQL Server Management Studio:__ Managing and interacting with databases
+- __DrawIO:__ Design data architecture.
+
+---
 # Repository Structure  
 ```text
 data-warehouse-project/
