@@ -31,8 +31,9 @@ The data model for this project follows the Star schema:
 
 ---
 # Tools Used
-- __SQL Server Management Studio:__ Managing and interacting with databases
+- __SQL Server Management Studio:__ Managing and interacting with databases.
 - __DrawIO:__ Design data architecture.
+- __Microsoft Excel:__ Design data model using Power Pivot, and performing analysis using PivotTables and PivotCharts.
 
 ---
 # Repository Structure  
